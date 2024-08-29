@@ -242,14 +242,6 @@ function cargarInformacion(citaInfo){
     editando = true;
 }
 
-/*
-→ Esta tambien es una forma de ir asigando el valor al objeto, solo que es mas extenso el codigo
-inputMascota.addEventListener("change", (e)=>{
-    citaObjeto.mascota = e.target.value;
-    console.log(citaObjeto);
-});
-*/
-
 
 
 
